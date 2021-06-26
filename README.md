@@ -1,2 +1,2 @@
 # Android_Project
-Academic Project
+Android Academic Project: Mobile Management Application using FireBase
