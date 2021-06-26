@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778579137612",
+    "project_id": "gestionderessource-7ba15",
+    "storage_bucket": "gestionderessource-7ba15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778579137612:android:b9adb14dcb0f34652150e9",
+        "android_client_info": {
+          "package_name": "com.example.reclami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778579137612-if35re4dks8ajj7fedlkuv6gcprbcg27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2zEnTi9mTwekr1hu5FNsdagcDYPQfEh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778579137612-if35re4dks8ajj7fedlkuv6gcprbcg27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

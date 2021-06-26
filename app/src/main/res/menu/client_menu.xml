@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/secondFragment"
+        android:title="my submission"
+        android:icon="@drawable/ic_baseline_record_voice_over_24"/>
+
+    <item
+        android:id="@+id/thirdFragment"
+        android:title="profile"
+        android:icon="@drawable/ic_profile"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="logout"
+        android:icon="@drawable/ic_profile"/>
+</menu>
